@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6282311272942@s.whatsapp.net"],
+  "ownerName": ["Own-Dals4X"],
+  "botName": "Dals4X-bot",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
